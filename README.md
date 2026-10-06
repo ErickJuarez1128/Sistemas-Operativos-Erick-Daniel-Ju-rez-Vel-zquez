@@ -2,9 +2,8 @@
 
 Repositorio para las prácticas, códigos y tareas de la materia de Sistemas Operativos.
 
-## 📂 Contenido del Semestre
-
 **Práctica 1** Creación de un proceso con `fork()` (Padre imprime del 1 al 10,000 e hijo del 10,000 
+Archivos de esta práctica: `Practica.c`, `salida.txt`
 
 ---
 
@@ -14,3 +13,7 @@ Si descargas o clonas alguna práctica para probarla en tu terminal Linux o WSL,
 1. **Compilar el código fuente:**
    ```bash
    gcc Practica.c -o programa
+2. **Ejercutar el programa**
+3. ```bash
+   ./programa
+
