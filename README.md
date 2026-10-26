@@ -17,5 +17,5 @@ Una vez dentro escribir los siguientes comandos:
    ./hilos
  3. **Ejecutar el programa y guardar la salida en un archivo de texto**
    ```bash
-./hilos > salida.txt
+   ./hilos > salida.txt
 
