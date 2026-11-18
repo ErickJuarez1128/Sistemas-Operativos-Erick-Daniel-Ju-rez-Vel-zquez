@@ -1,0 +1,41 @@
+Productor 2 insertó el dato [83] en el índice 0
+Consumidor 1 extrajo el dato [83] del índice 0
+Productor 1 insertó el dato [86] en el índice 1
+Consumidor 2 extrajo el dato [86] del índice 1
+Productor 2 insertó el dato [77] en el índice 2
+Consumidor 1 extrajo el dato [77] del índice 2
+Productor 1 insertó el dato [15] en el índice 3
+Consumidor 2 extrajo el dato [15] del índice 3
+Productor 2 insertó el dato [93] en el índice 4
+Consumidor 1 extrajo el dato [93] del índice 4
+Productor 1 insertó el dato [35] en el índice 0
+Consumidor 2 extrajo el dato [35] del índice 0
+Productor 2 insertó el dato [86] en el índice 1
+Consumidor 1 extrajo el dato [86] del índice 1
+Productor 1 insertó el dato [92] en el índice 2
+Consumidor 2 extrajo el dato [92] del índice 2
+Productor 2 insertó el dato [49] en el índice 3
+Consumidor 1 extrajo el dato [49] del índice 3
+Productor 1 insertó el dato [21] en el índice 4
+Consumidor 2 extrajo el dato [21] del índice 4
+Productor 2 insertó el dato [62] en el índice 0
+Consumidor 1 extrajo el dato [62] del índice 0
+Productor 1 insertó el dato [27] en el índice 1
+Consumidor 2 extrajo el dato [27] del índice 1
+Productor 2 insertó el dato [90] en el índice 2
+Consumidor 1 extrajo el dato [90] del índice 2
+Productor 1 insertó el dato [59] en el índice 3
+Consumidor 2 extrajo el dato [59] del índice 3
+Productor 2 insertó el dato [63] en el índice 4
+Consumidor 1 extrajo el dato [63] del índice 4
+Productor 1 insertó el dato [26] en el índice 0
+Consumidor 2 extrajo el dato [26] del índice 0
+Productor 2 insertó el dato [40] en el índice 1
+Consumidor 1 extrajo el dato [40] del índice 1
+Productor 1 insertó el dato [26] en el índice 2
+Consumidor 2 extrajo el dato [26] del índice 2
+Productor 2 insertó el dato [72] en el índice 3
+Consumidor 1 extrajo el dato [72] del índice 3
+Productor 1 insertó el dato [36] en el índice 4
+Consumidor 2 extrajo el dato [36] del índice 4
+Procesamiento completado
